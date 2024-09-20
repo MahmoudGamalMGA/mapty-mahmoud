@@ -1,4 +1,13 @@
 {
+  "name": "mapty",
+  "version": "1.0.0",
+  "description": "map application",
+  "default": "index.html",
+  "scripts": {
+    "start": "index.html"
+  },
+  "author": "MGA5 / Jonas Schmedtmann",
+  "license": "ISC",
   "dependencies": {
     "leaflet": "^1.9.4"
   }
