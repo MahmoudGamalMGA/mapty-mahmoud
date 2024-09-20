@@ -4,7 +4,8 @@
   "description": "map application",
   "default": "index.html",
   "scripts": {
-    "start": "index.html"
+    "start": "index.html",
+    "build": "build index.html --dist-dir ./dist"
   },
   "author": "MGA5 / Jonas Schmedtmann",
   "license": "ISC",
